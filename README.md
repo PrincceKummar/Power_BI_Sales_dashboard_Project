@@ -1,4 +1,4 @@
-# Power_BI_dashboard_Project
+# Power_BI_Dashboard_Project
 
 🚀 Power BI Sales Dashboard Project 🔥
 
